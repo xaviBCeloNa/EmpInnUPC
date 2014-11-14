@@ -10,6 +10,7 @@ output: html_document
 
 
 ## Dades relatives a l'avaluació
+[Activitats](https://sites.google.com/a/eupmt.tecnocampus.cat/empinnupc/activitats)
 * Activity 1 (02\%) Visit TCM incubator
 * Activity 2 (20\%) Lab Exercises
 * Activity 3 (20\%) Develop a Business Plan (partially)
@@ -23,4 +24,6 @@ output: html_document
 
 Informació relativa a la sintaxy simple de format anomenada **Markdown** [Visitar](http://rmarkdown.rstudio.com)
 
+## Informació Sobre L'assignatura
+[Teoria](https://sites.google.com/a/eupmt.tecnocampus.cat/empinnupc/home)
 
