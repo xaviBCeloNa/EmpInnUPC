@@ -1,4 +1,6 @@
-Assignment For reproducible Research Project
+Assignment For Advanced Research Project
+
+John Hopkins University
 ========================================================
 
 First we set some globla options 
